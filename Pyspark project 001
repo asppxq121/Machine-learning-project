@@ -7,7 +7,7 @@
    "outputs": [],
    "source": [
     "'''\n",
-    "This Notebook was create for Lrearning Apache Spark. In this notebook we modified code from reference to learn data science project in spark.\n",
+    "This Notebook was create for Learning Apache Spark. In this notebook we modified code from reference to learn data science project in spark.\n",
     "Since we used different version of spark, we have tried my best to modify but the problem is .count function is cannot be used due to some problem that we cannot clarify.\n",
     "\n",
     "Ref:\n",
